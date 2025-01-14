@@ -1,10 +1,12 @@
- ![MasterHead](https://i.pinimg.com/1200x/10/72/2f/10722f60716d5112d8f95f22774764aa.jpg)
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/10/72/2f/10722f60716d5112d8f95f22774764aa.jpg" alt="MasterHead" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Melike Çiçen</h1>
 <h3 align="center">A passionate Software Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Flutter**
-- 🔭 I’m currently working on **food-App**
+- 🌱 I’m currently learning **"Flutter"**
+- 🔭 I’m currently working on **"food-App"**
 
 - 📫 How to reach me **melikecicen.20@gmail.com**
 
@@ -20,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melikecicen&show_icons=true&locale=en" alt="melikecicen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melikecicen&" alt="melikecicen" /></p>
